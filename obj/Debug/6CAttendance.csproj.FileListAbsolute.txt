@@ -1,0 +1,22 @@
+c:\users\rizva\documents\visual studio 2015\Projects\6CAttendance\6CAttendance\bin\Debug\6CAttendance.exe.config
+c:\users\rizva\documents\visual studio 2015\Projects\6CAttendance\6CAttendance\bin\Debug\6CAttendance.exe
+c:\users\rizva\documents\visual studio 2015\Projects\6CAttendance\6CAttendance\bin\Debug\6CAttendance.pdb
+c:\users\rizva\documents\visual studio 2015\Projects\6CAttendance\6CAttendance\obj\Debug\6CAttendance.csprojResolveAssemblyReference.cache
+c:\users\rizva\documents\visual studio 2015\Projects\6CAttendance\6CAttendance\obj\Debug\_6CAttendance.Form1.resources
+c:\users\rizva\documents\visual studio 2015\Projects\6CAttendance\6CAttendance\obj\Debug\_6CAttendance.Properties.Resources.resources
+c:\users\rizva\documents\visual studio 2015\Projects\6CAttendance\6CAttendance\obj\Debug\6CAttendance.csproj.GenerateResource.Cache
+c:\users\rizva\documents\visual studio 2015\Projects\6CAttendance\6CAttendance\obj\Debug\6CAttendance.exe
+c:\users\rizva\documents\visual studio 2015\Projects\6CAttendance\6CAttendance\obj\Debug\6CAttendance.pdb
+C:\Users\rizva\OneDrive\6CAttendance\6CAttendance\bin\Debug\6CAttendance.exe.config
+C:\Users\rizva\OneDrive\6CAttendance\6CAttendance\obj\Debug\6CAttendance.exe
+C:\Users\rizva\OneDrive\6CAttendance\6CAttendance\obj\Debug\6CAttendance.pdb
+C:\Users\rizva\Downloads\6CAttendance\bin\Debug\6CAttendance.exe.config
+C:\Users\rizva\Downloads\6CAttendance\bin\Debug\6CAttendance.exe
+C:\Users\rizva\Downloads\6CAttendance\bin\Debug\6CAttendance.pdb
+C:\Users\rizva\Downloads\6CAttendance\obj\Debug\6CAttendance.csprojAssemblyReference.cache
+C:\Users\rizva\Downloads\6CAttendance\obj\Debug\_6CAttendance.Form1.resources
+C:\Users\rizva\Downloads\6CAttendance\obj\Debug\_6CAttendance.Properties.Resources.resources
+C:\Users\rizva\Downloads\6CAttendance\obj\Debug\6CAttendance.csproj.GenerateResource.cache
+C:\Users\rizva\Downloads\6CAttendance\obj\Debug\6CAttendance.csproj.CoreCompileInputs.cache
+C:\Users\rizva\Downloads\6CAttendance\obj\Debug\6CAttendance.exe
+C:\Users\rizva\Downloads\6CAttendance\obj\Debug\6CAttendance.pdb

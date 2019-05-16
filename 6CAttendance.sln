@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6CAttendance", "6CAttendance.csproj", "{2E6D0C0D-2C5A-4B8C-B584-E8124C34D96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6D0C0D-2C5A-4B8C-B584-E8124C34D96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6D0C0D-2C5A-4B8C-B584-E8124C34D96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6D0C0D-2C5A-4B8C-B584-E8124C34D96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6D0C0D-2C5A-4B8C-B584-E8124C34D96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620CA8DB-F6DB-4395-8425-222FD8314801}
+	EndGlobalSection
+EndGlobal
